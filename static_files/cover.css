@@ -60,7 +60,7 @@ body {
 .background-cover {
   --bs-bg-opacity: 1;
 
-  background: url(matski_cover_copy.jpg) no-repeat center center fixed, linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+  background: url(matski_cover_copy.jpg) no-repeat center center, linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 
   -webkit-background-size: cover;
   -moz-background-size: cover;
